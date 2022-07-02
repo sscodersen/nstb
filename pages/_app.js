@@ -12,3 +12,4 @@ function MyApp({ Component, pageProps }) {
 }
 
 export default MyApp;
+Router.events.on('routeChangeComplete', (url) => gtag.pageview(url))
