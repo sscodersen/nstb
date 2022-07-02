@@ -14,8 +14,8 @@ export default class MyDocument extends Document {
   render() {
     return (
       <Html>
-        <Head />
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6096745235213194" crossorigin="anonymous"></script>
+        <Head/>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6096745235213194"crossorigin="anonymous"></script>
         <body>
           <Main />
           <NextScript />
