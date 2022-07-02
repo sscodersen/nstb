@@ -14,8 +14,8 @@ export default class MyDocument extends Document {
   render() {
     return (
       <Html>
-        <Head/>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6096745235213194"crossorigin="anonymous"></script>
+        <Head />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6096745235213194" crossorigin="anonymous"></script>
         <body>
           <Main />
           <NextScript />
@@ -24,7 +24,7 @@ export default class MyDocument extends Document {
           <AmpWrap
             ampOnly={
               <AmpAnalytics
-                type="googleanalytics"
+                type="mobileanalytics"
                 script={{
                   vars: {
                     account: GA_TRACKING_ID,
@@ -34,9 +34,9 @@ export default class MyDocument extends Document {
                     },
                   },
                   triggers: {
-                    trackPageview: {
+                    trackPreview: {
                       on: 'visible',
-                      request: 'pageview',
+                      request: 'preview',
                     },
                   },
                 }}
