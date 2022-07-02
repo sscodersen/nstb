@@ -10,7 +10,7 @@ function MyApp({ Component, pageProps }) {
     />
 
 
-    <Script> strategy="lazyOnload">
+    <Script strategy="lazyOnload">
     {`
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
