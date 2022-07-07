@@ -2,7 +2,7 @@ import React from 'react';
 import Document, { Html, Head, Main, NextScript } from 'next/document'
 import { useAmp } from 'next/amp'
 
-import { GA_TRACKING_ID } from '../lib/gtag'
+import { GA_TRACKING_ID } from '../lib/ga'
 import AmpAnalytics from '../components/amp/AmpAnalytics'
 
 function AmpWrap({ ampOnly, nonAmp }) {
