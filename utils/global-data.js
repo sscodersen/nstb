@@ -1,7 +1,7 @@
 export const getGlobalData = () => {
   const name = process.env.BLOG_NAME
     ? decodeURI(process.env.BLOG_NAME)
-    : 'Social Tribe Knowledge Base - Reach your Full earning potential';
+    : 'Social Tribe - Reach your Full earning potential';
   const blogTitle = process.env.BLOG_TITLE
     ? decodeURI(process.env.BLOG_TITLE)
     : 'Saving money and being frugal only goes so far. Side hustles, advancing your career, starting a business, or investing will get you further.';
