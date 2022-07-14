@@ -44,7 +44,6 @@ export default function PostPage({
       <Header name={globalData.name} />
       <article className="px-6 md:px-0">
         <header>
-        <div id="amzn-assoc-ad-2b9156a5-bc0a-4362-8dd0-864b2cf64bd6"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=2b9156a5-bc0a-4362-8dd0-864b2cf64bd6"></script>
           <h1 className="text-3xl md:text-5xl dark:text-white text-center mb-12">
             {frontMatter.title}
           </h1>
