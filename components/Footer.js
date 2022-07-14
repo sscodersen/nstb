@@ -80,7 +80,6 @@ const ThemeSwitcher = () => {
 export default function Footer({ copyrightText }) {
   return (
     <footer className="py-16 flex flex-col items-center">
-      <div id="amzn-assoc-ad-2b9156a5-bc0a-4362-8dd0-864b2cf64bd6"></div><script async src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US&adInstanceId=2b9156a5-bc0a-4362-8dd0-864b2cf64bd6"></script>
       <p className="dark:text-white uppercase mb-3 font-bold opacity-60">
         {copyrightText}
       </p>
