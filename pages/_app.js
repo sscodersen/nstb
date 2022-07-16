@@ -21,7 +21,7 @@ const MyApp = ({ Component, pageProps }) => {
 
   return (
     <>
-    <script type="text/javascript" src="https://app.web3ads.net/main.js" async></script>
+
       {/* Global Site Tag (gtag.js) - Google Analytics */}
       <Script
         strategy="afterInteractive"
