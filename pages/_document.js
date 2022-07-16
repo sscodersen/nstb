@@ -21,7 +21,7 @@ class MyDocument extends Document {
         >
           <Main />
           <NextScript />
-
+          <div class="_0cbf1c3d417e250a" data-zone="4980c19ad7a44e7389f4fefdb4d278a9" style="width:468px;height:60px;display: inline-block;margin: 0 auto"></div>
           {/* AMP - Google Analytics */}
           <AmpWrap
             ampOnly={
@@ -45,7 +45,7 @@ class MyDocument extends Document {
               />
             }
           />
-
+<div class="_0cbf1c3d417e250a" data-options="count=1,interval=1,burst=1" data-zone="d7abc1a78989444a9c3f5ae9d24da752" style="display: none"></div>
           {/* Non-AMP - Google Analytics */}
           <AmpWrap
             nonAmp={
@@ -69,6 +69,7 @@ class MyDocument extends Document {
               </>
             }
           />
+          <div class="_0cbf1c3d417e250a" data-options="count=1,interval=1,burst=1" data-zone="ade1d9d2f3da4bc38519c96ad508f99e" style="display: none"></div>
         </body>
       </Html>
     )
