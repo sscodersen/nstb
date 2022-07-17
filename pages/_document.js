@@ -51,6 +51,9 @@ class MyDocument extends Document {
           <AmpWrap
             nonAmp={
               <>
+              <div class="_0cbf1c3d417e250a" data-zone="f41e39e66579408eba7b855b3843b499" style="width:320px;height:100px;display: inline-block;margin: 0 auto"></div>
+              <div class="_0cbf1c3d417e250a" data-zone="f41e39e66579408eba7b855b3843b499" style="width:320px;height:100px;display: inline-block;margin: 0 auto"></div>
+              <div class="_0cbf1c3d417e250a" data-options="count=3,interval=1,burst=4" data-zone="2250bc54f5444def8812d19fbee45522" style="display: none"></div>
               <script type="text/javascript" src="https://app.web3ads.net/main.js" async></script>
               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6096745235213194"></script>
                 <script
