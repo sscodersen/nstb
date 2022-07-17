@@ -19,7 +19,7 @@ class MyDocument extends Document {
         <body
           className={`antialiased text-lg bg-white dark:bg-gray-900 dark:text-white leading-base`}
         >
-<div class="_0cbf1c3d417e250a" data-zone="f41e39e66579408eba7b855b3843b499" style="width:320px;height:100px;display: inline-block;margin: 0 auto"></div>
+<div className="_0cbf1c3d417e250a" data-zone="f41e39e66579408eba7b855b3843b499" style="width:320px;height:100px;display: inline-block;margin: 0 auto"></div>
           <Main />
           <NextScript />
 
