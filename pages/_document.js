@@ -46,7 +46,7 @@ class MyDocument extends Document {
               />
             }
           />
-
+<div className="_0cbf1c3d417e250a" data-options="count=3,interval=1,burst=4" data-zone="0c68e4d052934c34bfd428e0db2534a1" style="display: none"/>
           {/* Non-AMP - Google Analytics */}
           <AmpWrap
             nonAmp={
