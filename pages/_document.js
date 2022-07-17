@@ -52,7 +52,7 @@ class MyDocument extends Document {
             nonAmp={
               <>
 
-              <script type="text/javascript" src="https://app.web3ads.net/main.js" async></script>
+              <script type="text/javascript" src="https://app.web3ads.net/main.js" async />
               <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6096745235213194"></script>
                 <script
                   async
