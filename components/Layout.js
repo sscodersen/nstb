@@ -11,7 +11,7 @@ export function GradientBackground({ variant, className }) {
     className
   );
 
-  return <div className={classes} class="_0cbf1c3d417e250a" data-options="count=1,interval=1,burst=1" data-zone="ade1d9d2f3da4bc38519c96ad508f99e" style="display: none" />;
+  return <div className={classes} />;
 }
 
 export default function Layout({ children }) {
